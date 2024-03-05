@@ -24,7 +24,7 @@ export const Nav = () => {
           <Image src={x} />
         </button>
       </a>
-      <a href="https://dexscreener.com/">
+      <a href="https://dexscreener.com/base/0x6FaFCeccfAf4095fF7257C335d7B1AcD551D3ab5">
         <button
           type="button"
           className="btn hidden md:flex bg-blue-700 text-yellow-300 font-bold shadow-md ml-2 "
@@ -44,7 +44,7 @@ export const Nav = () => {
           </svg>
         </button>
       </a>
-      <a href="https://uniswap.com/">
+      <a href="https://www.sushi.com/swap?chainId=8453&token1=0x6FaFCeccfAf4095fF7257C335d7B1AcD551D3ab5">
         <button
           type="button"
           className="btn  bg-gradient-to-r from-blue-700 via-blue-800 to-blue-300 text-yellow-300 font-bold shadow-md "

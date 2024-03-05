@@ -13,13 +13,12 @@ export const Header = () => {
         <Image src={retard} />
         <p className="text-white font-bold lg:text-xl p-1">
         Are you ready to catch 'em all on your favorite blockchain? Be a retard, be a trainer and get them all to become the best degen on the blockchain. Just ape them all <br />
-        CA: TBA
+        CA: 0x6FaFCeccfAf4095fF7257C335d7B1AcD551D3ab5
         </p>
         <p className="text-white font-bold lg:text-xl hidden ">
-          CA:0x305255F730cB80aD5d2D7A4227770b3d3EF6E703
         </p>
         <div className="flex flex-row gap-2  justify-center">
-        <a href="https://google.com">
+        <a href="https://www.sushi.com/swap?chainId=8453&token1=0x6FaFCeccfAf4095fF7257C335d7B1AcD551D3ab5">
           <button
             type="button"
             className="btn  bg-blue-700 text-white font-bold shadow-lg "
@@ -43,7 +42,7 @@ export const Header = () => {
             <Image src={x} />
           </button>
           </a>
-          <a href="">
+          <a href="https://dexscreener.com/base/0x6FaFCeccfAf4095fF7257C335d7B1AcD551D3ab5">
             <button
               type="button"
               className="btn  bg-blue-700 text-yellow-300 font-bold shadow-lg ml-2 "
