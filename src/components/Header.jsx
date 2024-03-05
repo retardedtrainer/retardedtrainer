@@ -35,7 +35,7 @@ export const Header = () => {
             <Image src={tg} className="w-8" />
           </button>
           </a>
-          <a href="https://google.com">
+          <a href="https://t.me/RetardedTrainerPortal">
           <button
             type="button"
             className="btn  bg-blue-700 text-yellow-300 font-bold shadow-lg ml-2 "
@@ -43,7 +43,7 @@ export const Header = () => {
             <Image src={x} />
           </button>
           </a>
-          <a href="https://google.com">
+          <a href="https://twitter.com/RetardedBase">
             <button
               type="button"
               className="btn  bg-blue-700 text-yellow-300 font-bold shadow-lg ml-2 "
