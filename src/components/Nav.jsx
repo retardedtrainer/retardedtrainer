@@ -8,7 +8,7 @@ export const Nav = () => {
   return (
     <div className="h-[8vh] lg:h-[10vh] flex flex-row-reverse  justify-between items-center mx-5 ">
       <div className="flex flex-row items-center  text-yellow-300 font-extrabold md:text-lg lg:text-xl gap-2  ">
-      <a href="https://t.me/">
+      <a href="https://t.me/RetardedTrainerPortal">
         <button
           type="button"
           className="btn hidden md:flex  bg-blue-700 text-yellow-300 font-bold shadow-md "
@@ -16,7 +16,7 @@ export const Nav = () => {
           <Image src={tg} className="w-8" />
         </button>
       </a>  
-      <a href="https://twitter.com/">
+      <a href="https://twitter.com/RetardedBase">
         <button
           type="button"
           className="btn hidden md:flex bg-blue-700 text-yellow-300 font-bold shadow-md ml-2 "
